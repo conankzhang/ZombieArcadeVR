@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 9a7442b4d1ef16844a65189301e6a3bb
+timeCreated: 1510967661
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ceiling
+    100002: Cokol
+    100004: Door border
+    100006: Door_material
+    100008: Floor
+    100010: Glass
+    100012: Grass
+    100014: Handle_material
+    100016: Marble
+    100018: Pipe
+    100020: Pipe_2
+    100022: Pipe_4
+    100024: Plastic
+    100026: roof
+    100028: roof_2
+    100030: Roof_3
+    100032: Side
+    100034: //RootNode
+    100036: wall
+    100038: Wood
+    400000: ceiling
+    400002: Cokol
+    400004: Door border
+    400006: Door_material
+    400008: Floor
+    400010: Glass
+    400012: Grass
+    400014: Handle_material
+    400016: Marble
+    400018: Pipe
+    400020: Pipe_2
+    400022: Pipe_4
+    400024: Plastic
+    400026: roof
+    400028: roof_2
+    400030: Roof_3
+    400032: Side
+    400034: //RootNode
+    400036: wall
+    400038: Wood
+    2300000: ceiling
+    2300002: Cokol
+    2300004: Door border
+    2300006: Door_material
+    2300008: Floor
+    2300010: Glass
+    2300012: Grass
+    2300014: Handle_material
+    2300016: Marble
+    2300018: Pipe
+    2300020: Pipe_2
+    2300022: Pipe_4
+    2300024: Plastic
+    2300026: roof
+    2300028: roof_2
+    2300030: Roof_3
+    2300032: Side
+    2300034: wall
+    2300036: Wood
+    3300000: ceiling
+    3300002: Cokol
+    3300004: Door border
+    3300006: Door_material
+    3300008: Floor
+    3300010: Glass
+    3300012: Grass
+    3300014: Handle_material
+    3300016: Marble
+    3300018: Pipe
+    3300020: Pipe_2
+    3300022: Pipe_4
+    3300024: Plastic
+    3300026: roof
+    3300028: roof_2
+    3300030: Roof_3
+    3300032: Side
+    3300034: wall
+    3300036: Wood
+    4300000: Pipe
+    4300002: Pipe_2
+    4300004: Floor
+    4300006: Cokol
+    4300008: Door_material
+    4300010: Marble
+    4300012: Plastic
+    4300014: ceiling
+    4300016: wall
+    4300018: Grass
+    4300020: Wood
+    4300022: Glass
+    4300024: Side
+    4300026: roof_2
+    4300028: roof
+    4300030: Roof_3
+    4300032: Pipe_4
+    4300034: Door border
+    4300036: Handle_material
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cokol
+    second: {fileID: 2100000, guid: 429660d4c9b79b54794eeac5ca9a7a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door border
+    second: {fileID: 2100000, guid: b9834164ff459fc43918911302109717, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_material
+    second: {fileID: 2100000, guid: 0b2345e4c0699f64aaf745e5e2775e98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 88f2360332b1f0d4ba8bc026360b388a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: b27114f54c9590243a1ce9566480ec2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: c52c5263d22098640918cd8c4c598db5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle_material
+    second: {fileID: 2100000, guid: 09d4c065980e45748bca31c62d951152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marble
+    second: {fileID: 2100000, guid: a4b09ea59e08e6646b54faee5bd4e23d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pipe
+    second: {fileID: 2100000, guid: 6d8e4936729cc324cbcb026760520ec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pipe_2
+    second: {fileID: 2100000, guid: a70eb8f3f927be24e89f34b051de3256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pipe_4
+    second: {fileID: 2100000, guid: a67d4680ab574e74385ea5e533096a65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: 8820d1b45a543384e999cd4c76568163, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road
+    second: {fileID: 2100000, guid: e716fb9ca641ed04d8c8b7b29624d5d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: 72514cd50da1ea6409985440dd185ea0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_3
+    second: {fileID: 2100000, guid: 2af9e83fb7b6ccb4ea6118fe465c1e2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side
+    second: {fileID: 2100000, guid: 2c0a2b646731bfe46a4af6aace3c8203, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 0420c003d9ce0ba4299300e8134b0c09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling
+    second: {fileID: 2100000, guid: df2eac82d4d5700488df94c9e84dbca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2100000, guid: 6d8e4936729cc324cbcb026760520ec9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
